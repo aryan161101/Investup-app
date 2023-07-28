@@ -1,0 +1,26 @@
+.form{
+    height: 500px;
+    width: 700px;
+    margin-left: 27%;
+    margin-top: -150px;
+    background-image: url('signin_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.user_name, .password{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.pass_word{
+    width: 60%;
+    margin-left: 50px;
+}
+
+.user_id{
+    width: 60%;
+    margin-left: 80px;
+
+}   
